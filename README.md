@@ -12,7 +12,7 @@ not in parentheses, not italic and not a footnote.  the script works with the cu
 
 This script uses Scrapy for the crawling functions and beacutifulsoap for component manipulation funtions.
 
-To run this script you should have Scrapy and Pythom 3+ installed, I utilized Anaconda for both installations, though any other method should sufficient.
+To run this script you should have Scrapy and Pythom 3+ installed, I utilized Anaconda for both installations, though any other method should be sufficient.
 
 To run the script simply go to the script directory and run the below command:
 scrapy runspider spider.py -a start_url="https://en.wikipedia.org/wiki/Special:Random"
